@@ -1,0 +1,77 @@
+div{
+    width: 100%;
+    height: 40px;
+   font-size: 30px;
+   color: white;
+   background-color: palevioletred;
+   text-decoration: none;
+   text-align: center;
+}
+
+li{
+    display: inline; 
+}
+
+#one{
+    margin-right: 100px;
+}
+
+#two{
+    margin-right: 100px;
+}
+
+#three{
+    margin-right: 100px;
+}
+
+#four{
+    margin-right: 100px;
+}
+
+.head{
+    color: #90ee90;
+    font-size: 60px;
+    text-align: center;
+} 
+.head::first-letter{
+    font-size: 150px;
+}
+.abc{ 
+    color: aqua
+}
+
+h2{ 
+  text-align: center;
+  color: yellowgreen;
+} 
+.five{
+    color:aqua;
+    font-size: 60px;
+    text-align: center;
+}
+.five::first-letter{
+    font-size: 150px;
+}
+
+p{
+    color: palevioletred;
+    text-align:center;
+}
+
+.about{
+    color: yellowgreen;
+    font-size: 60px;
+    text-align: center;
+}
+.about::first-letter{
+    font-size: 150px;
+}
+#para{
+    color: brown; 
+}
+.xyz{
+    color: brown;
+}
+
+
+    
